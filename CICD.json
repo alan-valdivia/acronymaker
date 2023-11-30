@@ -1,0 +1,170 @@
+{
+  "Code": {
+    "Program": {
+      "P": "Phosphorus",
+      "Pr": "Praseodymium"
+    },
+    "Script": {
+      "S": "Sulfur",
+      "Sc": "Scandium"
+    },
+    "Software": {
+      "S": "Sulfur",
+      "So": "Sodium"
+    },
+    "Application": {
+      "A": "Aluminum",
+      "Ap": "Actinium"
+    },
+    "Algorithm": {
+      "A": "Aluminum",
+      "Al": "Aluminum"
+    },
+    "Source code": {
+      "S": "Sulfur",
+      "So": "Sodium"
+    },
+    "Programming": {
+      "P": "Phosphorus",
+      "Pr": "Praseodymium"
+    },
+    "Scripting": {
+      "S": "Sulfur",
+      "Sc": "Scandium"
+    },
+    "Development": {
+      "D": "Deuterium",
+      "De": "Dysprosium"
+    },
+    "Implementation": {
+      "I": "Iodine",
+      "Im": "Einsteinium"
+    }
+  },
+  "Build": {
+    "Construct": {
+      "C": "Carbon",
+      "Co": "Cobalt"
+    },
+    "Create": {
+      "C": "Carbon",
+      "Cr": "Chromium"
+    },
+    "Develop": {
+      "D": "Deuterium",
+      "De": "Dysprosium"
+    },
+    "Assemble": {
+      "A": "Aluminum",
+      "As": "Arsenic"
+    },
+    "Fabricate": {
+      "F": "Fluorine",
+      "Fa": "Flerovium"
+    },
+    "Manufacture": {
+      "M": "Magnesium",
+      "Ma": "Magnesium"
+    },
+    "Form": {
+      "F": "Fluorine",
+      "Fo": "Flerovium"
+    },
+    "Make": {
+      "M": "Magnesium",
+      "Ma": "Magnesium"
+    },
+    "Engineer": {
+      "E": "Einsteinium",
+      "En": "Einsteinium"
+    },
+    "Craft": {
+      "C": "Carbon",
+      "Cr": "Chromium"
+    }
+  },
+  "Release": {
+    "Launch": {
+      "L": "Lanthanum",
+      "La": "Lanthanum"
+    },
+    "Publish": {
+      "P": "Phosphorus",
+      "Pu": "Plutonium"
+    },
+    "Deploy": {
+      "D": "Deuterium",
+      "De": "Dysprosium"
+    },
+    "Unveil": {
+      "U": "Uranium",
+      "Un": "Unnilennium"
+    },
+    "Issue": {
+      "I": "Iodine",
+      "Is": "Iodine"
+    },
+    "Introduce": {
+      "I": "Iodine",
+      "In": "Indium"
+    },
+    "Distribute": {
+      "D": "Deuterium",
+      "Di": "Didymium"
+    },
+    "Announce": {
+      "A": "Aluminum",
+      "A": "Aluminum"
+    },
+    "Present": {
+      "P": "Phosphorus",
+      "Pr": "Praseodymium"
+    },
+    "Rollout": {
+      "R": "Roentgenium",
+      "Ro": "Roentgenium"
+    }
+  },
+  "Deploy": {
+    "Implement": {
+      "I": "Iodine",
+      "Im": "Einsteinium"
+    },
+    "Install": {
+      "I": "Iodine",
+      "In": "Indium"
+    },
+    "Utilize": {
+      "U": "Uranium",
+      "Ut": "Tennessine"
+    },
+    "Activate": {
+      "A": "Aluminum",
+      "Ac": "Actinium"
+    },
+    "Employ": {
+      "E": "Einsteinium",
+      "Em": "Einsteinium"
+    },
+    "Set up": {
+      "S": "Sulfur",
+      "Se": "Selenium"
+    },
+    "Position": {
+      "P": "Phosphorus",
+      "Po": "Polonium"
+    },
+    "Use": {
+      "U": "Uranium",
+      "Us": "Ununseptium"
+    },
+    "Place": {
+      "P": "Phosphorus",
+      "Pl": "Platinum"
+    },
+    "Mobilize": {
+      "M": "Magnesium",
+      "Mo": "Molybdenum"
+    }
+  }
+}
